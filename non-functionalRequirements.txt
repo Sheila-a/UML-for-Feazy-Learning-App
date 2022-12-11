@@ -1,0 +1,7 @@
+The 5 most important non-functional requirement for the e-learning app is:
+
+1. Should be Mobile Responsive.
+2. The performance need to be swift.
+3. The app's aesthetic must be pleasing.
+4. Information about users and their passwords should be adequately protected.
+5. Everyone should have access to it, regardless of where they are.

@@ -1,0 +1,10 @@
+The most important functional requirement for the FEAZZY app is:
+
+1. It needs to be appropriate for all types of users.
+2. Certificates of completion for courses
+3. The software ought to have support for multiple languages.
+4. It must work on all platforms.
+5. Should incorporate downloadable content.
+6. User guides for the app's features ought to be included.
+7. There should be several payment options included.
+
